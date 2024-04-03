@@ -2,6 +2,8 @@
 
 > Learning resources and practical tips on how to use Jupyter notebooks for fun &amp; profit.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iPythonNotebook/pythonify/master?labpath=TODO.ipynb)
+
 **Contents**
 
  * [What is this?](#what-is-this)
